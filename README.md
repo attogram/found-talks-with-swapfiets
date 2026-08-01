@@ -1,7 +1,3 @@
-# found-talks-with-swapfiets
-FOUND talks with SwapFiets
-
-Here is the complete, continuous Markdown block ready for copy-pasting directly into your README.md:
 # 🦖 THE LEIDEN EXHIBIT – A SWARM PLAY INTRO
 
 **Location:** Naturalis Biodiversity Center, Leiden, Netherlands  
