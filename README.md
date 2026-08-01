@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/187ab8ea-63e6-470a-bbe3-e87003a376f8
+
+
+
 # 🦖 THE LEIDEN EXHIBIT – A SWARM PLAY INTRO
 
 **Location:** Naturalis Biodiversity Center, Leiden, Netherlands  
