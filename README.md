@@ -3,7 +3,7 @@ FOUND talks with SwapFiets
 
 ## DOI
 
-https://zenodo.org/records/21738846
+https://zenodo.org/records/21738845
 
 You can cite all versions by using the DOI 10.5281/zenodo.21738845. This DOI represents all versions, and will always resolve to the latest one. 
 
