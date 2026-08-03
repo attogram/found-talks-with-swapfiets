@@ -197,3 +197,62 @@ Group B (The Curators)
  * [Empty]
 📈 WHAT'S NEXT: INPUT
 The structural architecture is deployed. The logic gates are set. The next phase requires actual input to move the budget status from Inactive to Funded.
+
+> David: 
+Now, fundraising, publicity, and marketing. This project lives in the same geographic area as the Blender Foundation, the Blender Institute, and the Blender Commercial organization. We are going to walk over, we're going to print this, walk over and give it to them and say, please fund us for 5 for 5 days.
+
+
+[[Gemini]]
+
+You are not just marketing a 5-euro budget; you are selling a philosophical bridge to one of the most successful open-source organizations in the world. Since you are physically in Amsterdam, this is a guerrilla marketing approach based on proximity, audacity, and total alignment.
+Here is your strategy and your printable document.
+THE STRATEGY
+The Blender Foundation (and its related entities) is the perfect target for this micro-micro experiment. Why?
+ * Shared DNA: They are the kings of decentralized, open-source funding models. They understand communities funding creators.
+ * The Contrast: Blender is now a multi-million-euro success story. You are showing them the absolute quantum minimum unit of that same philosophy.
+ * Guerrilla Pitch: This is not a formal pitch. You are walking in, handing them the paper, and making the "Game" real. Your presentation is as important as the document.
+HOW TO DO THE WALK-OVER
+ * PRINT: Print the text below on a single, high-quality piece of white A4 paper. Crucially, print the allocation flowchart as well (either on the same sheet or on the back), so they see the mathematical structure immediately.
+ * AUDACITY: Walk into the Blender headquarters (their office address in Amsterdam is public). When you are at the reception, do not ask for "the fundraising department."
+ * THE PITCH (The Script): When you approach the desk, present the document clearly and say:
+   > "Hi. I'm here representing [Your Organization/Game name]. We are the micro-micro minimum viable product of the open-source philosophy. Our account is empty. Our people are unvalidated. We live right down the street. Our model requires exactly 5.00 EUR for exactly 5 days. We want the Blender Foundation to be the catalyst for the human epoch of this repo. Please fund us for five."
+   > 
+THE PITCH DOCUMENT (PRINT READY)
+[The following text should be printed, clean and without headers.]
+THE 5x5 CATALYST CHALLENGE
+TO: The Blender Foundation / Blender Institute
+FROM: [Your Game Name / Repo Name]
+LOCATION: Neighbor, Amsterdam
+AMOUNT REQUESTED: 5.00 EUR (FIVE EURO)
+ACCOUNT BALANCE: 0.00 EUR
+THE OPPORTUNITY: THE MINIMUM VIABLE MODEL OF DECEN
+Blender proved that the world can fund creation. You operate with millions in community-backed capital. You are the macro-success story of the open-source ideal.
+We are the quantum micro-minimum of that same ideal.
+Our repository is built on a radical, recursive allocation model. It is designed to prove that economic systems do not require massive capital to establish structure, human validation, and accountable distribution.
+The framework is complete. The logic gates are set. The groups are waiting.
+The only thing missing is INPUT.
+THE MODEL: THE BINARY WATERFALL
+When money enters this ecosystem, it is subject to instant, automatic rules:
+INPUT: 5.00 EUR (over 5 days)
+▼
+50% FOUNDATION | 50% PEOPLE
+(2.50)           (2.50)
+▼               ▼
+FOUNDATION SPLIT   |  PEOPLE SPLIT
+▼               ▼
+(1.25) Taxes/Admin | (1.25) Builders
+(1.25) Working Cap | (1.25) Curators
+Our model validates 10 humans for one purpose: Presence.
+Each human receives exactly 0.25 EUR for showing up.
+THE FUNDING REQUEST: CATALYST FUNDING
+We are not pitching for growth capital or long-term runway. We are pitching for activation.
+We are asking the neighbors—the kings of open funding—to place the initial 5.00 EUR into the empty system.
+If the Blender Foundation accepts this challenge and provides the 5.00 EUR catalyst funding, we will:
+ * Fund: Instantly change the repository status to OFFICIALLY FUNDED.
+ * Validate: Activate the validation pipeline to find 10 human participants.
+ * Execute: Run the 5-day cycle proof of concept with absolute transparency.
+ * Publish: Publicly acknowledge the Blender Foundation as the original catalyst funder for this micro-economic nation.
+The account is currently empty. The system is unactivated. The people are unknown.
+The budget is 5.00 EUR. The duration is 5 days.
+Will you activate the human epoch?
+[Hand them the paper. Smile. Wait for the 'yes.']
