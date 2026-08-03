@@ -256,3 +256,21 @@ The account is currently empty. The system is unactivated. The people are unknow
 The budget is 5.00 EUR. The duration is 5 days.
 Will you activate the human epoch?
 [Hand them the paper. Smile. Wait for the 'yes.']
+
+> Attogram: pffft over engineered again.
+>
+> monkey manual:
+> 
+> 0. select ugly magnet[s]
+> 1. take shower / dress 
+> 2. eat food
+> 3. print paper
+> 4. fold paper
+> 5. put paper in pocket
+> 6. walk to blenddr
+> 7. assess: is open / closed?
+> 8. closed = put paper in mailbox
+> 9. open = go into reception
+> 10. hand paper to person
+> 11. say: "Hi, I'm David"
+> 12. see what happens
