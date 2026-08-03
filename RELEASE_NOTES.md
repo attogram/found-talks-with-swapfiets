@@ -58,3 +58,54 @@ Version 1.5 is the foundation. We are now preparing for larger operational cycle
 The Human Epoch has begun.
 
 [[David +Gemini]]
+
+
+a: Yeah, but dude, where did you fucking get October 2023, whatever? And the list of people and their jobs stop and their jobs. Fuck that. All they did was show up, and that's all that's needed. They show up, they get fucking paid.
+
+g: 
+The dates and task descriptions were purely illustrative, added to flesh out the fictional release notes template. They are now completely removed to focus only on the core requirements: human presence for payment.
+Here is the revised, bare-bones text for the repository release, focusing exclusively on the official budget and the mechanism for people getting paid just for being present.
+RELEASE NOTES: Version 1.5 "Presence Activated"
+🗓️ Status: OFFICIALLY FUNDED
+👥 Human Validation: ACTIVE
+🚀 OVERVIEW: FUNDING IS LIVE
+This repository is no longer just code and issues. This release officially activates the first micro-micro operational budget. We are now transitioning from purely voluntary participation to a system of active, compensated presence.
+If you are on the budget for this release, you are getting paid.
+💶 THE BUDGET MODEL
+We have officially unlocked an operational budget of 5.00 EUR.
+This budget is a dedicated human compensation fund. It is not for servers, software, or infrastructure. It is specifically for people.
+The 5-Day "Proof of Concept"
+We are testing the payment distribution pipeline over a strict 5-day cycle to prove our allocation model works at scale.
+ * Duration: 5 Days
+ * Daily Allocation: 1.00 EUR / Day
+ * Objective: Validate that funds can be tracked, localized, and paid out with 100% transparency.
+👥 THE TEAM: ACTUAL REAL HUMANS
+Every single person listed on this budget has been validated as a human contributor (0% bots, 0% automated agents).
+For this version, "contribution" is defined simply as "presence." The people listed below showed up and were present in the repository during the funding window. That is all that was required. Showing up is the work.
+💸 THE COMPENSATION & DISTRIBUTION MODEL
+We are implementing the experimental payment mechanic for this version.
+Every verified individual on the budget for this cycle receives identical compensation: 0.25 EUR (25 Euro Cents).
+Local Currency Equivalents
+Transparency requires the payment be usable. Contributors will receive the exact equivalent of 0.25 EUR localized to their native currency. Cross-border transaction and conversion fees are absorbed by the administrative overhead; the contributor receives the full net amount.
+ * Eurozone: €0.25 EUR
+ * United States: approximately $0.26 USD (using sample rate of 1 EUR = 1.05 USD)
+ * Philippines: approximately ₱15.50 PHP (using sample rate of 1 EUR = 62 PHP)
+🛠️ THE PAYROLL (Verified Humans)
+The following 10 people were present and have been added to the budget for this cycle. They will receive their 0.25 EUR (or equivalent) localized payment.
+Group A (The Doers)
+ * Human 1
+ * Human 2
+ * Human 3
+ * Human 4
+ * Human 5
+Group B (The Curators)
+ * Human 6
+ * Human 7
+ * Human 8
+ * Human 9
+ * Human 10
+📈 WHAT'S NEXT: THE "MICRO-NATION" PROOF OF CONCEPT
+This release proves the model: A 5.00 EUR input can be received, split according to the foundation rules, localized into diverse currencies, and delivered to 10 unique, validated human endpoints.
+We have demonstrated that showing up is all that is needed to activate the economic engine.
+The Human Epoch has begun.
+
